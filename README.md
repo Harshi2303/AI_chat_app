@@ -69,7 +69,7 @@ InsightX is an advanced AI-driven solution designed to extract, analyze, and sum
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KaviyaaPriyadharshini/AI-InsightX.git
+git clone https://github.com/Harshi2303/AI_chat_app.git
 cd AI-InsightX
 ```
 
